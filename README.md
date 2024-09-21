@@ -1,8 +1,6 @@
 # MyGame
 Индивидуальны проект по теме'Разработка мини-игры в консольном приложении'
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
-Индивидуальный проект по теме 'Разработка мини-игры в консольном приложении'.
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
 
 
 
